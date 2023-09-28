@@ -10,8 +10,7 @@ Sizlere kısaca bu kütüphaneleri anlatmak istiyorum.
 NUMPY : Python programlama dilinde yüksek performanslı çok boyutlu diziler ve matematiksel işlemler için bir kütüphanedir. NumPy, bilimsel ve sayısal hesaplamalar için temel bir araçtır ve birçok veri analizi ve bilimsel hesaplama kütüphanesi için temel altyapıyı oluşturur.
 
 
-![png-transparent-red-and-black-illustration-angle-separator-religion-line-red-thumbnail Arka Planı Silindi](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/3131ecda-03cc-4f0d-a3d0-f1261ac4ea6d)
-
+**************************************************************************************************************************************
 
 ![indir](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/e5493948-7a34-4608-aafb-b35c22cb1da1)
 
