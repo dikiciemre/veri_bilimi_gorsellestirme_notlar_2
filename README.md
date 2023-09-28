@@ -14,8 +14,8 @@ NUMPY : Python programlama dilinde yüksek performanslı çok boyutlu diziler ve
 
 **************************************************************************************************************************************
 
+![thumbnail-matplotlib](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/e31fba0e-63de-4426-bdbf-cd8b4e4c99e7)
 
-![indir](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/e5493948-7a34-4608-aafb-b35c22cb1da1)
 
 MATPLOTLİB : Python programlama dilinde veri görselleştirmesi yapmak için kullanılan bir kütüphanedir. Bu kütüphane, çeşitli grafikler, çizimler ve görsel sunumlar oluşturmanıza olanak sağlar. Matplotlib, bilimsel ve veri analizi uygulamalarından, grafik raporlara, sunumlar ve web sitelerine kadar birçok farklı bağlamda kullanılır.
 
