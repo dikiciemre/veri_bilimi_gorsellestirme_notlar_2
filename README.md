@@ -47,3 +47,33 @@ Aşağıda matlplotlib kütüphanesi ile yaptığım bazı örnekler bulunmaktad
 
 
 
+
+
+**************************************************************************************************************************************
+
+**************************************************************************************************************************************
+
+
+
+
+![1_5VKgpRUCInBKmWBXFvSvvA](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/b9a85654-1488-4664-b265-d8f679f15439)
+
+SEABORN : Seaborn, Python programlama dilinde veri görselleştirmesi ve istatistiksel grafik oluşturma amacıyla kullanılan bir üst düzey veri görselleştirme kütüphanesidir. Seaborn, Matplotlib kütüphanesine dayanır ve Matplotlib'in temel yeteneklerini daha yüksek seviyede kullanarak veri analizi ve görselleştirmeyi daha hızlı ve kolay hale getirir.
+
+Aşağıda seaborn kütüphanesi ile yaptığım bazı örnekler bulunmaktadır.
+
+
+
+![Figure 2023-09-28 221534](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/4c37953b-b810-423f-9bd6-74c22379f0ec)
+![Figure 2023-09-28 221532](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/a94b1c1c-3616-4990-8eaf-f4da128253bd)
+![Figure 2023-09-28 221527](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/0b66aff0-0919-4011-b2c8-780e36118ef8)
+![Figure 2023-09-28 221524](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/40e562ed-cb8c-46ef-ae1f-6e24817b7d1a)
+
+![Figure 2023-09-28 221537](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/55a64d35-eaf2-409f-b571-572b6038d25f)
+
+
+
+
+
+
+
