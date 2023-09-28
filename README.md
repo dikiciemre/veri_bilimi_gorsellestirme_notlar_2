@@ -11,4 +11,4 @@ NUMPY : Python programlama dilinde yüksek performanslı çok boyutlu diziler ve
 
 
 
-![Uploading 68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667.svg…]()
+![1](https://github.com/dikiciemre/veri_bilimi_gorsellestirme_notlar_2/assets/103147965/39abe302-d542-4872-b278-cf3e536084c4)
